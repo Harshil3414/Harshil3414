@@ -11,3 +11,4 @@ Harshil3414/Harshil3414 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 [![An image of @harshil3414's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshil3414)](https://holopin.io/@harshil3414)
+[![An image of @harshil3414's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshil3414)](https://holopin.io/@harshil3414)
